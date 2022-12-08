@@ -1,0 +1,14 @@
+{
+  "name": "teutonic24319",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "ts911 Pantip เว็บไซต์ที่มีความน่าเชื่อถือ [Play168] ⭐ ts911 เว็บพนันออนไลน์ที่มีคนเล่นเยอะที่สุด บริการตลอด 24 ชม.",
+  "keywords": [
+    "ts911 Pantip เว็บไซต์ที่มีความน่าเชื่อถือ [Play168] ⭐ ts911 เว็บพนันออนไลน์ที่มีคนเล่นเยอะที่สุด บริการตลอด 24 ชม."
+  ],
+  "repository": "https://github.com/yorkinyellow/teutonic24319",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
